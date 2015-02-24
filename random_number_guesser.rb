@@ -10,7 +10,7 @@ loop do
   elsif guess < number
     puts 'Too low'
   else
-    puts 'You got it.'
+    puts 'You got it!'
     break
   end
 end
